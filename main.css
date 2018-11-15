@@ -1,0 +1,34 @@
+
+@media (min-width: 576px) {
+    .ht-sm-100 {
+        min-height: 100vh;
+    }
+
+    nav {
+        border-right: 5px solid #EAA038FF;
+    }
+}
+.full-height {
+    min-height: 100vh;
+}
+.bg-warning-a {
+    background-color: #E89F3CAA;
+}
+
+.bg-info-a {
+    background-color: #4E97D5AA;
+}
+
+.main-container {
+    background-image: url("https://wallpapertag.com/wallpaper/full/1/d/b/106821-vertical-bamboo-background-1920x1080-image.jpg");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+}
+
+.content-background{
+    background-image: url("https://www.freeiconspng.com/uploads/wood-png-20.jpg");  
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+}
